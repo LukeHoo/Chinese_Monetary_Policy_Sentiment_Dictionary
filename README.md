@@ -15,10 +15,10 @@
   <tr>
     <th class="tg-0lax">词语倾向</th>
     <th class="tg-0lax">数量</th>
-    <th class="tg-0lax">词语</th>
+    <th class="tg-0lax">词语举例</th>
     <th class="tg-0lax">词语倾向</th>
     <th class="tg-0lax">数量</th>
-    <th class="tg-0lax">词语</th>
+    <th class="tg-0lax">词语举例</th>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="10">负向词语</td>
