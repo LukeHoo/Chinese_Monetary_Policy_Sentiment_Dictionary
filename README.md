@@ -63,8 +63,4 @@
   <tr>
     <td class="tg-0lax">货币信贷过快增长</td>
     <td class="tg-0lax">流动性宽松</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">适度从紧</td>
-    <td class="tg-0lax">价格涨幅保持低位</td>
 </table>
