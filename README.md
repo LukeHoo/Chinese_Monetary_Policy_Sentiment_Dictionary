@@ -67,6 +67,8 @@
 </table>
 
 读者在使用该词典时，推荐结合姜富伟、孟令超和唐国豪开发的基础词典使用，地址为：
+
 https://github.com/MengLingchao/Chinese_financial_sentiment_dictionary
+
 关于央行货币政策报告的更多研究内容，请参见我们的文章：
 - 姜富伟、胡逸驰、黄楠. 央行货币政策报告文本信息、宏观经济与股票市场. 金融研究, 已接受待发表。
