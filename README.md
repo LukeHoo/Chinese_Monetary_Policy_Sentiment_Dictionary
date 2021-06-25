@@ -22,15 +22,11 @@
     <th class="tg-0lax">词语举例</th>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="10">负向词语</td>
-    <td class="tg-0lax" rowspan="10">48</td>
-    <td class="tg-0lax">跌</td>
-    <td class="tg-0lax" rowspan="10">正向词语</td>
-    <td class="tg-0lax" rowspan="10">29</td>
-    <td class="tg-0lax">涨</td>
-  </tr>
-  <tr>
+    <td class="tg-0lax" rowspan="9">负向词语</td>
+    <td class="tg-0lax" rowspan="9">48</td>
     <td class="tg-0lax">货币供应量增速减慢</td>
+    <td class="tg-0lax" rowspan="9">正向词语</td>
+    <td class="tg-0lax" rowspan="9">29</td>
     <td class="tg-0lax">货币供应量增速加快</td>
   </tr>
   <tr>
